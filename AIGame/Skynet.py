@@ -36,4 +36,4 @@ while True:
         else:
             print("You are a looser bouuuuh (sarah is dead)!!!")
     except ValueError:
-            print("Suis les regle, si tu veux vivre.")
+            print("Suis les regles, si tu veux vivre.")
